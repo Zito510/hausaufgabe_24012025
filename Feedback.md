@@ -3,11 +3,11 @@
 ## Themen der ersten Woche
 
 In der ersten Woche unseres IT-Kurses haben wir viele spannende Themen kennengelernt, die uns einen ersten Überblick über die moderne Arbeitswelt gegeben haben. Hier sind die wichtigsten Inhalte zusammengefasst:
-
+![Bild](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/375px-Google_2015_logo.svg.png)
 ### **1. Google und seine Apps**
 - Einführung in Google Apps wie **Docs**, **Drive** und **Classroom**.
 - Vergleich der Google-Apps mit den Microsoft-Produkten.
-![Bild](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/375px-Google_2015_logo.svg.png)
+
 ### **2. Microsoft 365**
 - Nutzung der wichtigsten Office-Programme: **Word**, **Excel** und **PowerPoint**.
 - Diskussion der Unterschiede und Gemeinsamkeiten zwischen Google Workspace und Microsoft 365.
