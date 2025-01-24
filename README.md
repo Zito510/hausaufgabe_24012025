@@ -1,1 +1,0 @@
-# hausaufgabe_24012025
