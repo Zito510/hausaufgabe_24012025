@@ -25,10 +25,13 @@ In der ersten Woche unseres IT-Kurses haben wir viele spannende Themen kennengel
 ### **4. Google Drive**
 - Verwendung von Google Drive als zentrale Plattform zur Organisation und Speicherung von Dateien.
   
- ![Bild](https://imgs.search.brave.com/woMrqAl8Gv8XgIxSdmYwZPDEMIsljjTH87cxlmnk6u8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS90LWp1VndYQThs/REFrOHVRMkw2ZDZL/ODNqcGdRb3FtSzFp/Y0JfbDl5dmhJQVEy/UVRfMVhiUndnNUlw/WTA4OTA2cU)
+ ![Bild](https://imgs.search.brave.com/G7RhRyHPGB_Z8LrgDGjQ8OTHAhV4KomjjByOO3072mU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9rc3Rh/dGljLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9maWxlcy9mNjgw/MjAwMTNhOTM1MzYx/N2EyZmNhMjhiMTk3/YzQ2YjM5ODNhYWYw/N2IwMmFlYWQwMDM1/ZDQ5ZWEyZTFiYmUx/ZmVjOTRiNWI0NzNh/ZTdmYmI5MGRmMjBk/NTljYzkwMWRhNDRh/MDUwOTcyMjBjN2Y5/YzY0YjQyZTYzOGM1/MTU4Yw.jpeg)
  
 ### **5. Slack**
 - Kennenlernen der Kommunikationsplattform **Slack** für die Zusammenarbeit im Team.
+
+  ![Bild](https://imgs.search.brave.com/cNyFhOenWc21NjFI3TacaFtHCCzEancu7EPv1XMNer0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL25ldy1z/bGFjay1sb2dvLTIw/MTkuanBn)
+  
 
 ### **6. Webbasierte Office-Anwendungen**
 - Nutzung der webbasierten Versionen von Office-Anwendungen und ihre Vorteile.
@@ -36,12 +39,19 @@ In der ersten Woche unseres IT-Kurses haben wir viele spannende Themen kennengel
 ### **7. Stockfotos**
 - Quellen für Stockfotos zur professionellen Gestaltung von Präsentationen und Dokumenten.
 
+![Bild](https://imgs.search.brave.com/wc7QeqL3eLJGRPnAo7vz53lDJ_QNTJCACvzenoxmg-A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tYWNr/ZXlzYXR1cmRheS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMTEvVW5zcGxh/c2hfTG9nb19XLmpw/Zw)
+
+
 ### **8. GitHub und GitHub Maker**
 - Einführung in GitHub als Plattform für Zusammenarbeit und Versionskontrolle.
 - Kennenlernen des GitHub Makers für einfaches Erstellen eines Profil bei GitHub.
 
+![Bild](https://imgs.search.brave.com/6OazjMciDsohObj9xr3VCoyNXgE-bSGyZ7jpXHPF6g8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL3ByaW1l/ci9icmFuZC9hc3Nl/dHMvMTkyOTIyMTAv/MWI4YjMzZDctZjYy/ZC00Y2ZjLWI2ODIt/YWQ1MzI1MzE5ZTlj.jpeg)
+
 ### **9. Markdown**
 - Einführung in **Markdown**, eine einfache Auszeichnungssprache zum Erstellen von strukturierten Dokumenten.
+
+![Bild](https://download.logo.wine/logo/Markdown/Markdown-Logo.wine.png)
 
 ---
 
